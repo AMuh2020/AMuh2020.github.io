@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+#main {
+    display: grid;
+}
+
+#name {
+    font-size: 13rem;
+    color: #333;
+    flex: 1;
+}
+
+#socials {
+    font-size: 3rem;
+    color: #333;
+}
+
+#skills {
+    font-size: 3rem;
+    color: #333;
+    flex: 1;
+}
+
+.social-svg {
+    width: 3rem;
+    height: 3rem;
+}
+
