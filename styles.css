@@ -31,3 +31,16 @@ body {
     height: 3rem;
 }
 
+.project-image {
+    height: 400px;
+    object-fit: contain;
+}
+
+.carousel-control-button {
+    background-color: rgba(3, 3, 3, 0.4) !important;
+}
+
+.links-box {
+    background-color: aquamarine;
+    border-radius: 7px;
+}
