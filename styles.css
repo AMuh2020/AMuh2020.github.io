@@ -1,3 +1,11 @@
+:root {
+    --text: #000;
+    --background: #ffffff;
+    --primary: #000000;
+    --secondary: #000000;
+    --accent: #7d4141;
+}
+
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -39,8 +47,41 @@ body {
 .carousel-control-button {
     background-color: rgba(3, 3, 3, 0.4) !important;
 }
+#link-body {
+    background-color: var(--background);
+    color: var(--text);
+}
 
 .links-box {
-    background-color: aquamarine;
+    background-color: var(--secondary);
     border-radius: 7px;
+}
+
+.theme-toggle svg {
+    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out, scale 0.5s ease-in-out;
+}
+
+.theme-toggle .bi-brightness-high-fill {
+    opacity: 0;
+    transform: rotate(180deg) scale(0.5);
+}
+
+.theme-toggle .bi-moon-fill {
+    opacity: 1;
+    transform: rotate(0deg) scale(1);
+}
+
+.theme-toggle.dark .bi-brightness-high-fill {
+    opacity: 1;
+    transform: rotate(0deg) scale(1);
+}
+
+.theme-toggle.dark .bi-moon-fill {
+    opacity: 0;
+    transform: rotate(180deg) scale(0.5);
+}
+
+#theme-button {
+    color: var(--text);
+    /* background-color: var(--primary); */
 }
