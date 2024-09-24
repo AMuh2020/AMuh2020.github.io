@@ -214,6 +214,7 @@
             
             if (mode === null) {
                 mode = 'light';
+                localStorage.setItem('DarkMode', mode);
             }
 
             themeIndex = themeIndex + 1;
@@ -238,7 +239,6 @@
             // get the current mode
             let mode = localStorage.getItem('DarkMode');
 
-            // toggle the mode
             if (mode === 'light') {
                 mode = 'dark';
             } else {
