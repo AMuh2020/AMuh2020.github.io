@@ -1,18 +1,18 @@
-Privacy Policy for AMAL Inventory/Stock Manager
+Privacy Policy for AMAL Inventory Manager
 
 Effective Date: 5th August 2024
 
 1. Introduction
 
-Welcome to AMAL Inventory/Stock Manager. This privacy policy outlines how we handle any personal information and permissions associated with our app.
+Welcome to AMAL Inventory Manager. This privacy policy outlines how we handle any personal information and permissions associated with our app.
 
 2. Information Collection and Use
 
-AMAL Inventory/Stock Manager does not collect, store, or share any personal data from its users. Our app is designed to function without requiring any personal information.
+AMAL Inventory Manager does not collect, store, or share any personal data from its users. Our app is designed to function without requiring any personal information.
 
 3. Permissions
 
-AMAL Inventory/Stock Manager does not require any special permissions to operate. The app functions fully without accessing your device's contacts, camera, microphone, location, or any other personal data.
+AMAL Inventory Manager does not require any special permissions to operate. The app functions fully without accessing your device's contacts, camera, microphone, location, or any other personal data.
 
 4. Data Security
 
@@ -28,4 +28,4 @@ If you have any questions about this privacy policy, please contact us at:
 
 Email: amalworks2024@gmail.com
 
-By using AMAL Inventory/Stock Manager, you agree to this privacy policy.
+By using AMAL Inventory Manager, you agree to this privacy policy.
